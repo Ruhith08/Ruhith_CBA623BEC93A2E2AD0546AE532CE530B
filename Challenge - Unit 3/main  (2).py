@@ -20,10 +20,10 @@ def sort_students(student_list):
 
 # lets check the example for the code :
 students = [
-  student("HEMANTH","CSC026",9.3),
-  student("DHANASEKARAN","CSC017",6.3),
-  student("SANJAI","CSC063",9.1),
-  student("ABHISHEK_R","CSC004",6.9)
+  student("RUHITH","CSC444",9.3),
+  student("PRAVEEN","CSC456",9.0),
+  student("HEMANTH","CSC435",9.1),
+  student("PUNITH","CSC446",6.9)
 ]
 
 sorted_students = sort_students(students)
